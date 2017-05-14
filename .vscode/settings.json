@@ -1,4 +1,17 @@
 {
   "angulardoc.repoId": "4dd0656d-b2b3-47c5-9b5d-799f69139859",
-  "angulardoc.lastSync": 0
+  "angulardoc.lastSync": 0,
+  "editor.fontSize": 14,
+  "editor.insertSpaces": true,
+  "editor.minimap.enabled": true,
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [80],
+  "editor.tabSize": 2,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 80,
+  "search.exclude": {
+    "**/node_modules": false,
+    ".history": true
+  },
+  "workbench.iconTheme": "vs-seti"
 }
