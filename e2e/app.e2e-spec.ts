@@ -1,10 +1,10 @@
-import { Ng2CliTestPage } from './app.po';
+import { NgCliTestPage } from './app.po';
 
-describe('ng2-cli-test App', () => {
-  let page: Ng2CliTestPage;
+describe('ng-cli-test App', () => {
+  let page: NgCliTestPage;
 
   beforeEach(() => {
-    page = new Ng2CliTestPage();
+    page = new NgCliTestPage();
   });
 
   it('should display message saying app works', () => {
